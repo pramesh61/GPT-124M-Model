@@ -1,1 +1,1 @@
-Building GPT-124M from scratch
+Building a GPT-124M Model from Scratch
